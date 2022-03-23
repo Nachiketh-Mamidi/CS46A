@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SnowmanViewer
+comment0.text=\n\ Write\ a\ description\ of\ class\ SnowmanViewer\ here.\n\ Use\ Rectangle,\ line\ and\ circles\ to\ draw\ a\ Snowman\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ Feb\ 12,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

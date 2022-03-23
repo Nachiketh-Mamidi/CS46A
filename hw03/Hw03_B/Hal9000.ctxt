@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hal9000
+comment0.text=\n\ Models\ an\ AI\ interacting\ with\ crew\ members\n\ \n\ @author\ Nachiketh\ Mamidi\n\ @version\ Feb\ 22,\ 2021\n\ \n
+comment1.params=crewName
+comment1.target=Hal9000(java.lang.String)
+comment1.text=\n\ Constructs\ a\ new\ Crew\ name\ with\ a\ given\ name\n\ \n\ @param\ crewName\ the\ name\ of\ the\ crew\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Returns\ the\ name\ of\ the\ crew\ member\n\ \n\ @return\ getName\ returns\ the\ name\ of\ the\ crew\ member\n
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ Sets\ a\ new\ name\n\ \n\ @param\ newName\ takes\ the\ name\ of\ the\ new\ crew\ member\n
+comment4.params=
+comment4.target=java.lang.String\ greet()
+comment4.text=\n\ Greets\ a\ crew\ member\n\ \n\ @return\ Returs\ a\ string\ greeting\ the\ crew\ member\ \n
+comment5.params=
+comment5.target=java.lang.String\ giveStatus()
+comment5.text=\n\ Gives\ status\ to\ a\ crew\ member\n\ \n\ @return\ Returns\ a\ string\ giving\ status\ to\ a\ crew\ member\n
+comment6.params=whatToDo
+comment6.target=java.lang.String\ executeCommand(java.lang.String)
+comment6.text=\n\ Gives\ a\ response\ to\ a\ command\n\ \n\ @param\ whatToDo\ gives\ a\ command\ to\ the\ AI\n\ @return\ Returns\ a\ string\ responding\ to\ a\ command\n
+numComments=7

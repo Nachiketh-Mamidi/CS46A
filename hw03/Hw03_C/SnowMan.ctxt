@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SnowMan
+comment0.text=\n\ Write\ a\ description\ of\ class\ SnowMan\ here.\n\ Constructs\ a\ Snowman\ at\ the\ coordinates\ x,\ y\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ Feb\ 22,\ 2021\n
+comment1.params=xPos\ yPos
+comment1.target=SnowMan(int,\ int)
+comment1.text=\n\ Constructs\ a\ snowman\ at\ the\ coordinates\ x,\ y\n\ \n\ @param\ xPos\ x-coordinate\ of\ the\ upper\ left\ corner\ of\ the\ snowman\n\ @param\ yPos\ y-coordinate\ of\ the\ upper\ left\ corner\ of\ the\ snowman\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\n\ Draws\ a\ snowman\ at\ the\ coordinates\ x,\ y\n\n
+numComments=3
