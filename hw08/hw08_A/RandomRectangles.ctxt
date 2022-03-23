@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RandomRectangles
+comment0.text=\n\ Write\ a\ description\ of\ class\ RandomRectangles\ here.\n\ constructs\ random\ rectangles\ and\ fills\ yellow\ in\ smallest\ rectangle.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 04/13/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

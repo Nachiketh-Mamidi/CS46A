@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StockList
+comment0.text=\n\ Write\ a\ description\ of\ class\ StockList\ here.\n\ Class\ StockList\ manages\ an\ array\ list\ of\ class\ Stock\ \n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 04/13/2021\n
+comment1.params=
+comment1.target=StockList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StockList\n
+comment2.params=s
+comment2.target=void\ add(Stock)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ s\ Adds\ a\ stock\ s\ to\ the\ end\ of\ the\ list.\n
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=\n\ Swaps\ the\ element\ at\ index1\ with\ the\ element\ at\ index2.\ \n\ If\ either\ index\ is\ out\ of\ bounds,\ do\ not\ changing\ anything.\n\n\ @param\ index1\ is\ the\ index\ to\ be\ swapped.\n\ @param\ index2\ is\ the\ index1\ to\ be\ swapped\ with.\n
+comment4.params=
+comment4.target=java.lang.String\ cheapest()
+comment4.text=\n\ Gets\ the\ symbol\ for\ the\ Stock\ with\ the\ lowest\ price\n\ per\ share.\ If\ more\ than\ one\ Stock\ has\ the\ same\ price,\ \n\ return\ the\ symbol\ for\ the\ first.\ If\ the\ list\ is\ empty,\ \n\ return\ the\ empty\ string.\n\n\n\ @return\ the\ symbol\ for\ the\ first\ lowest\ price\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ the\ string\ returned\ from\ calling\ the\ toString()\ \n\ method\ on\ the\ list.\n\n\ @return\ Returns\ the\ string\ returned\ from\ calling\ the\n\ \ toString()\ method\ on\ the\ list.\n
+numComments=6
