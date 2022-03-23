@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\n\ Describes\ a\ bus\ going\ up\ and\ down\ Main\ Street.\ It\ starts\ at\ the\ terminal\ which\ is\ considered\ stop\ 0\n\ and\ moves\ along\ its\ route.\ It\ can\ reverse\ direction\ at\ any\ point\ if\ told\ to\ do\ so\n
+comment1.params=
+comment1.target=Bus()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Bus\n
+comment2.params=
+comment2.target=int\ getDirection()
+comment2.text=\n\ gets\ the\ current\ direction\n\ @return\ 1\ if\ the\ bus\ is\ headed\ away\ from\ the\ terminal\ -1\ if\ headed\ towards\ the\ terminal\n
+comment3.params=
+comment3.target=int\ getCurrentStop()
+comment3.text=\n\ gets\ the\ current\ stop\n\ @return\ \ the\ stop\ number\ where\ the\ bus\ is\ located\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Turns\ the\ bus\ so\ it\ will\ move\ in\ the\ opposite\ direction\n
+comment5.params=numberOfStops
+comment5.target=void\ drive(int)
+comment5.text=\n\ Moves\ the\ bus\ the\ required\ number\ of\ stops\n\ @param\ numberOfStops\ number\ of\ stops\ to\ drive\n
+numComments=6

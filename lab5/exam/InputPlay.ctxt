@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InputPlay
+comment0.text=\n\ Write\ a\ description\ of\ class\ InputPlay\ here.\n\ Using\ scanner\ object\ and\ if\ commands\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ March\ 5,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
