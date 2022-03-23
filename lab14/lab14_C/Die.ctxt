@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\n\ \ \ This\ class\ models\ a\ die\ that,\ when\ cast,\ lands\ on\ a\ random\n\ \ \ face.\n
+comment1.params=s
+comment1.target=Die(int)
+comment1.text=\n\ \ \ \ \ \ Constructs\ a\ die\ with\ a\ given\ number\ of\ sides.\n\ \ \ \ \ \ @param\ s\ the\ number\ of\ sides,\ e.g.\ 6\ for\ a\ normal\ die\n
+comment2.params=
+comment2.target=java.lang.String\ cast()
+comment2.text=\n\ \ \ \ \ \ Simulates\ a\ throw\ of\ the\ die\n\ \ \ \ \ \ @return\ the\ face\ of\ the\ die\ \n
+numComments=3

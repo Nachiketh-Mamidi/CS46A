@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DataAnalyzer3
+comment0.text=\n\ \ \ This\ program\ computes\ the\ average\ and\ maximum\ of\ a\ set\n\ \ \ of\ input\ values.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ add(double)
+comment2.text=\n\ \ \ \ \ \ Adds\ a\ data\ value\ to\ the\ data\ set\n\ \ \ \ \ \ @param\ x\ a\ data\ value\n
+comment3.params=
+comment3.target=double\ getAverage()
+comment3.text=\n\ \ \ \ \ \ Gets\ the\ average\ of\ the\ added\ data.\n\ \ \ \ \ \ @return\ the\ average\ or\ 0\ if\ no\ data\ has\ been\ added\n
+numComments=4

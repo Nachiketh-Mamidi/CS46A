@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DataAnalyzer1
+comment0.text=\n\ \ \ This\ program\ computes\ the\ average\ and\ maximum\ of\ a\ set\n\ \ \ of\ input\ values.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
