@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Comparable
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Comparable\ here.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 05/13/2021\n
+comment1.params=obj
+comment1.target=int\ compareTo(java.lang.Object)
+comment1.text=\n\ compare\ 2\ objects\ and\ returns\ an\ int\n\n\ @param\ obj\ is\ the\ object\ we\ are\ comparing\ to\n\ @return\ returns\ int\ -1,\ 0,\ 1\n\n
+numComments=2

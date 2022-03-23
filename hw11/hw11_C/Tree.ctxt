@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tree\ here.\n\ To\ create\ a\ Tree\ class\ that\ has\ the\ information\ of\ the\ type\ and\n\ height\ of\ the\ tree.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 05/13/2021\n
+comment1.params=str\ num
+comment1.target=Tree(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Tree\n\ \n\ @param\ str\ is\ the\ type\ of\ tree\ we\ are\ adding\n\ @param\ num\ is\ the\ height\ of\ the\ tree\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\n\ To\ return\ the\ type\ of\ tree.\n\n\ @return\ returns\ the\ type\ of\ tree.\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\n\ To\ return\ the\ height\ of\ tree.\n\n\ @return\ returns\ the\ height\ of\ tree.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ to\ return\ the\ tree\ in\ a\ string\ format\n\n\ @return\ returns\ the\ tree\ in\ a\ string\ format\ \ \n
+comment5.params=obj
+comment5.target=int\ compareTo(java.lang.Object)
+numComments=6

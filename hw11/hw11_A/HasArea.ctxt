@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HasArea
+comment0.text=\n\ interference\ class\ for\ Circle\ and\ square\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 05/13/2021\n
+comment1.params=
+comment1.target=double\ area()
+comment1.text=\n\ measures\ area\ of\ circle\ and\ square\n\n\ @return\ area\n
+numComments=2
