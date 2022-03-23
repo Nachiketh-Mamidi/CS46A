@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Temperatures
+comment0.text=\n\ A\ Java\ application\ to\ process\ a\ sequence\ of\ integers\n\ as\ temperatures.\n\n\ @author\ \ Nachiketh\ Mamidi\n\ @version\ April\ 4th,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ swapTwoHighest()
+comment2.text=\n\ Swaps\ the\ two\ highest\ temperatures\ stored\ in\n\ high\ and\ secondHigh.\n
+comment3.params=value
+comment3.target=void\ updateCounts(int)
+comment3.text=\n\ Updates\ negativeCount\ and\ belowFreezeCount\n\ using\ a\ temperatures\ value.\n\ \n\ @param\ value\ the\ temperature\ used\ to\ update\n\ \ \ \ \ \ \ \ the\ two\ counts\n
+numComments=4
