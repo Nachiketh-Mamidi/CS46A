@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IntArray
+comment0.text=\n\ Int\ Array\ is\ an\ array\ of\ Integers\ in\ which\ we\ add\ values\ to\ end\ of\ array,\n\ remove\ values\ from\ specified\ index,\ count\ the\ out\ of\ range\ values\ and\ find\n\ the\ last\ negatives.\n\ \n\ @author\ Nachiketh\ Mamidi\n\ @version\ 04/21/2021\n
+comment1.params=integerArray\ size
+comment1.target=IntArray(int[],\ int)
+comment1.text=\n\ Constructor\ an\ object\ of\ IntArray\ by\ initializing\ the\n\ instance\ variable\ to\ parameter.\n\n\ @param\ integerArray\ the\ array\ of\ integers\ to\ be\ managed\n\ @param\ size\ of\ the\ partially\ filled\ array\n
+comment2.params=value
+comment2.target=void\ add(int)
+comment2.text=\n\ It\ adds\ an\ integer\ value\ to\ the\ end\ of\ arrayInt.\n\n\ @param\ value\ the\ integer\ value\ to\ be\ added\ to\ the\ end\ of\n\ the\ arrayInt\n
+comment3.params=index
+comment3.target=void\ remove(int)
+comment3.text=\n\ It\ removes\ the\ integer\ element\ from\ the\ index\ specified\ by\n\ the\ user.\n\n\ @param\ index\ the\ position\ of\ element\ to\ be\ removed\ from\n\ arrayInt\n
+comment4.params=low\ high
+comment4.target=int\ countOfOutRange(int,\ int)
+comment4.text=\n\ Counts\ integer\ values\ which\ are\ out\ of\ Range.\n\n\ @param\ low\ the\ min\ rang\n\ @param\ high\ the\ max\ range\n\n\ @return\ the\ count\ out\ of\ range\ values\ in\ the\n\ intArray\n
+comment5.params=
+comment5.target=int\ lastNegative()
+comment5.text=\n\ Finds\ the\ last\ negative\ number\ in\ intArray.\n\n\ @return\ the\ last\ negative\ number\ in\ intArray\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Gets\ a\ string\ representation\ of\ intArray\ enclosed\ in\ square\n\ braces.\n\n\ @return\ a\ string\ on\ intger\ value\ in\ intArray\n
+numComments=7
