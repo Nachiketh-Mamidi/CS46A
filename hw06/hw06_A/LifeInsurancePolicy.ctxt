@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LifeInsurancePolicy
+comment0.text=\n\ Write\ a\ description\ of\ class\ LifeInsurancePolicy\ here.\n\ This\ class\ calculates\ the\ premium\ based\ on\ age,\n\ gender,\ and\ crime\ rate\ of\ place.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ March\ 23,\ 2021\n
+comment1.params=personParam\ value
+comment1.target=LifeInsurancePolicy(Person,\ boolean)
+comment1.text=\n\ Consructs\ a\ Person\ object\ with\ the\ crime\ rate\ in\ person\ area.\n\n\ @param\ personParam\ the\ object\ of\ class\ Person\n\ @param\ value\ is\ the\ crime\ rate\ in\ person\ area\n\ \ \ \ \ \ \n
+comment2.params=
+comment2.target=int\ policyHolderAge()
+comment2.text=\n\ Gets\ the\ age\ of\ the\ person\ object.\n\n\ @return\ the\ age\ of\ the\ person\ object\n
+comment3.params=
+comment3.target=char\ policyHolderGender()
+comment3.text=\n\ Gets\ the\ gender\ of\ the\ person\ object.\n\n\ @return\ the\ gender\ of\ the\ person\ object\n
+comment4.params=
+comment4.target=void\ incrementAge()
+comment4.text=\n\ Increases\ the\ age\ of\ this\ person\ object\ by\ 1\ year.\n
+comment5.params=
+comment5.target=double\ premium()
+comment5.text=\n\ Finds\ the\ premium\ of\ person\ object\ based\ on\ age,\ gender\ and\ crimeRate\ is\ persons\ area.\n\n\ @return\ premium\ return\ the\ final\ premium\ of\ person\ object\n
+numComments=6

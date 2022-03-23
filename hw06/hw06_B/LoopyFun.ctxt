@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LoopyFun
+comment0.text=\n\ Write\ a\ description\ of\ class\ LoopyFun\ here.\n\ Takes\ a\ integer\ as\ an\ input\ and\ calculates\ and\ \n\ returns\ the\ factoral\ and\ sum\ of\ powers\ of\ two.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ March\ 22,\ 2021\n
+comment1.params=var
+comment1.target=LoopyFun(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LoopyFun\n\ \n\ @param\ var\ is\ the\ number\n
+comment2.params=
+comment2.target=int\ getNum()
+comment2.text=\n\ Gets\ the\ stored\ number\n\ \n\ @return\ getNum\ returns\ the\ stored\ number\n
+comment3.params=
+comment3.target=int\ factorial()
+comment3.text=\n\ Calculates\ and\ returns\ the\ factorial\ of\ the\ \n\ stored\ integer.\n\n\ @return\ The\ factorial\ of\ the\ number\n
+comment4.params=
+comment4.target=int\ sumOfPowersOfTwo()
+comment4.text=\n\ Calculates\ and\ returns\ the\ sum\ of\ powers\ of\ \n\ two\ for\ all\ integer\ powers\ from\ 0\ (inclusive)\n\ to\ the\ stored\ integer\ (exclusive)\n\n\ @return\ returns\ sum\ of\ powers\ of\ two\ from\ 0\ \n\ to\ the\ number.\n
+numComments=5

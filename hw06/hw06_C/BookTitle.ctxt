@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BookTitle
+comment0.text=\n\ Write\ a\ description\ of\ class\ BookTitle\ here.\n\ Outputs\ a\ string\ with\ first\ letters\ of\ word,\n\ and\ another\ string\ with\ last\ letters\ of\ the\ word.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ March\ 23,\ 2021\n
+comment1.params=title
+comment1.target=BookTitle(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BookTitle\n\ \n\ @param\ title\ is\ the\ string\ we\ perform\ methods\ on\n
+comment2.params=
+comment2.target=java.lang.String\ firstLetters()
+comment2.text=\n\ Returns\ a\ string\ consisting\ of\ the\ first\ character\ of\ every\ \n\ word\ in\ the\ title\n\ \n\ \n\ @return\ firstLetters\ returns\ the\ first\ character\ of\ every\ word.\n
+comment3.params=
+comment3.target=java.lang.String\ lastLetters()
+comment3.text=\n\ Returns\ a\ string\ consisting\ of\ the\ last\ letter\ of\ every\ word\ \n\ in\ the\ title\n\n\ @return\ lastLetters\ returns\ a\ string\ consisting\ of\ the\ letter\ of\n\ every\ word\ in\ the\ line\n
+numComments=4
