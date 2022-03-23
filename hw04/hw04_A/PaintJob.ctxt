@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PaintJob
+comment0.text=\n\ Write\ a\ description\ of\ class\ PaintJob\ here.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ Feb\ 27,2021\n
+comment1.params=theLength\ theWidth
+comment1.target=PaintJob(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PaintJob\n\ \n\ @param\ theLength\ is\ the\ length\ of\ the\ room\ to\ paint\n\ @param\ theWidth\ is\ the\ width\ of\ the\ room\ to\ paint\n
+comment2.params=
+comment2.target=double\ getLength()
+comment2.text=\n\ This\ method\ return\ the\ length\ of\ the\ room\n\n\ @return\ getLength\ returns\ length\n
+comment3.params=
+comment3.target=double\ getWidth()
+comment3.text=\n\ This\ method\ return\ the\ width\ of\ the\ room\n\n\ @return\ getWidth\ returns\ width\n
+comment4.params=newLength\ newWidth
+comment4.target=void\ setDimensions(double,\ double)
+comment4.text=\n\ This\ methond\ sets\ a\ new\ length\ and\ width\ \n\ in\ feet\ for\ the\ room\n\ \n\ @param\ newLength\ sets\ new\ length\ in\ feet\ for\ the\ room\n\ @param\ newWidth\ sets\ new\ width\ in\ feet\ for\ the\ room\n
+comment5.params=
+comment5.target=double\ surfaceArea()
+comment5.text=\n\ This\ methond\ sets\ Gets\ the\ surface\ area\ to\ paint,\n\ excluding\ the\ area\ of\ the\ door\ or\ window.\n\ \n\ @return\ surfaceArea\ returns\ surface\ area\ of\ room\ \n\ \ \ \ \ \ \ \ \ excluding\ the\ area\ of\ the\ door\ or\ window\n
+comment6.params=
+comment6.target=double\ costOfPaint()
+comment6.text=\n\ This\ methond\ gets\ the\ cost\ of\ the\ paint\ \n\ for\ thisjob.\n\ \n\ @return\ costOfPaint\ returns\ cost\ of\ paint\n
+comment7.params=
+comment7.target=double\ totalJobCost()
+comment7.text=\n\ This\ methond\ gets\ the\ cost\ of\ thisjob\n\ \n\ @return\ \n
+numComments=8

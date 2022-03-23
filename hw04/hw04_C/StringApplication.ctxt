@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringApplication
+comment0.text=\n\ Write\ a\ description\ of\ class\ StringApplication\ here.\n\ Creates\ scanner\ object\ and\ uses\ various\ methods\ to\ call\ substrings\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ Feb\ 27,\ 2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
