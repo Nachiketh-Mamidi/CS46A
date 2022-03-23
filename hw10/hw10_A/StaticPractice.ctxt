@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StaticPractice
+comment0.text=\n\ Write\ a\ description\ of\ class\ StaticPractice\ here.\n\ Contains\ methods\ for\ arrays\ and\ arraylists\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 05/05/2021\n
+comment1.params=numbers\ size
+comment1.target=double\ averageOfPositive(int[],\ int)
+comment1.text=\n\ Gets\ the\ average\ value\ of\ all\ positive\ elements\ in\ the\ array\n\n\ @param\ int[]\ numbers\ is\ a\ array\ of\ integers\n\ @param\ size\ is\ the\ length\ of\ array\n\ \n\ @return\ average\ value\ of\ all\ positive\ elements\ in\ the\ array\n
+comment2.params=numbers
+comment2.target=double\ averageOfPositive(java.util.ArrayList)
+comment2.text=\n\ Gets\ the\ average\ value\ of\ all\ positive\ elements\ in\ the\ array\ list.\n\n\ @param\ ArrayList<Integer>\ numbers\ is\ an\ arraylist\ of\ integers\n\ \n\ @return\ average\ value\ of\ all\ positive\ elements\ in\ the\ array\ list\n
+comment3.params=list\ size\ target
+comment3.target=int\ count(java.lang.String[],\ int,\ java.lang.String)
+comment3.text=\n\ Gets\ the\ count\ of\ occurrences\ of\ target\ in\ the\ array\n\n\ @param\ String[]\ list\ is\ an\ array\ of\ strings\n\ @param\ int\ size\ is\ the\ length\ of\ array\n\ @param\ String\ target\ is\ what\ we\ are\ trying\ to\ find\n\ \n\ @return\ count\ of\ occurrences\ of\ target\ in\ the\ array\ \ \ \ \n
+comment4.params=list\ target
+comment4.target=int\ count(java.util.ArrayList,\ java.lang.String)
+comment4.text=\n\ Gets\ the\ count\ of\ occurrences\ of\ target\ in\ the\ array\ list\n\n\ @param\ ArrayList<String>\ list\ is\ an\ arraylist\ of\ strings\n\ @param\ String\ target\ is\ the\ what\ we\ are\ trying\ to\ find\n\ \n\ @return\ count\ of\ occurrences\ of\ target\ in\ the\ array\ list\n
+numComments=5

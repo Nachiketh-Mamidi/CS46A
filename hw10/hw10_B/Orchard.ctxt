@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Orchard
+comment0.text=\n\ Write\ a\ description\ of\ class\ Orchard\ here.\n\ Orchard\ class\ manages\ an\ ArrayList\ of\ trees,\ adds,\ finds\ a\n\ specific\ type\ and\ tallest\ tree\ and\ returns\ it.\n\n\ @author\ Nachiketh\ Mamidi\n\ @version\ 05/05/2021\n
+comment1.params=
+comment1.target=Orchard()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Orchard\n
+comment2.params=tree\ index
+comment2.target=void\ add(Tree,\ int)
+comment2.text=\n\ to\ add\ a\ tree\ at\ a\ given\ position\ of\ the\ array\ list\ if\ \n\ the\ index\ is\ valid\n\n\ @param\ tree\ is\ the\ tree\ to\ be\ added\n\ @param\ index\ is\ the\ position\ at\ which\ the\ tree\ should\ be\ added\n\ @return\ \ \n
+comment3.params=
+comment3.target=Tree\ tallest()
+comment3.text=\n\ to\ return\ the\ first\ tallest\ tree\n\n\ @return\ returns\ the\ first\ tallest\ tree\n
+comment4.params=var
+comment4.target=java.lang.String\ contains(java.lang.String)
+comment4.text=\n\ to\ determine\ if\ the\ array\ list\ contains\ a\ Tree\ object\ \n\ of\ a\ given\ type\n\n\ @param\ var\ is\ the\ object\ we\ are\ looking\ for\n\ @return\ returns\ either\ true\ or\ false\ de\n
+comment5.params=
+comment5.target=java.lang.String\ treeList()
+comment5.text=\n\ to\ return\ an\ ArrayList<String>\ containing\ the\ types\ of\ \n\ all\ the\ Tree\ objects\ in\ the\ array\ list.\n\ \n\ @return\ return\ an\ ArrayList<String>\ containing\ the\ types\ of\ \n\ all\ the\ Tree\ objects\ in\ the\ array\ list.\n
+numComments=6
